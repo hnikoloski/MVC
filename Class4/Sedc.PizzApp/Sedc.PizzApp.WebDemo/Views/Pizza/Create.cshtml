@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create new user</h2>
+
+create pizza:
+<form action="/pizza/create" method="post">
+    <input type="text" name="Name" placeholder="Name" />
+    <input type="submit" value="create" />
+</form> <br/>

@@ -1,0 +1,76 @@
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.deps.json
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.runtimeconfig.json
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.runtimeconfig.dev.json
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.dll
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.pdb
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.Views.dll
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.Views.pdb
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.csprojAssemblyReference.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.RazorAssemblyInfo.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.RazorAssemblyInfo.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.AssemblyInfoInputs.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.AssemblyInfo.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.TagHelpers.input.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.TagHelpers.output.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.RazorCoreGenerate.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\GetAll.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Sedc\IsItSedcDay.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_EmptyLayout.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FooterPartial.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_NavBarPartial.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.Views.pdb
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.dll
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.pdb
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.csproj.CopyComplete
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class4\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\Details.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.deps.json
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.runtimeconfig.json
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.runtimeconfig.dev.json
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.dll
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.pdb
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.Views.dll
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\bin\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.Views.pdb
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.csprojAssemblyReference.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.RazorAssemblyInfo.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.RazorAssemblyInfo.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.AssemblyInfoInputs.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.AssemblyInfo.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.TagHelpers.input.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.TagHelpers.output.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.RazorCoreGenerate.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\Details.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\GetAll.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Sedc\IsItSedcDay.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_EmptyLayout.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FooterPartial.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_NavBarPartial.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.Views.pdb
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.dll
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.pdb
+C:\Users\Hristijan.nikoloski\Desktop\Hristijan.Nikoloski\MVC\Class5 - MusicStore\Sedc.PizzApp\Sedc.PizzApp.WebDemo\obj\Debug\netcoreapp2.1\Sedc.PizzApp.WebDemo.csproj.CopyComplete

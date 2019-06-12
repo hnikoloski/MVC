@@ -1,0 +1,28 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+
+    @*@{
+    var pizzas = new List<string>
+        {
+        "capri", "tuna","margarita","pepperoni"
+        };
+        }*@
+        <ul class="renderList">
+            @foreach (var pizza in ViewBag.Pizzas)
+            {
+            <li>@pizza</li>
+            }
+        </ul>
+
+@*@functions {
+        public List<string>
+    GetAllPizzas()
+    {
+    return new List<string>
+        {
+        "capri", "tuna","margarita","pepperoni"
+        };
+        }
+        }*@
