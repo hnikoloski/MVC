@@ -118,7 +118,7 @@ using MusicStore.Models;
         ");
             EndContext();
             BeginContext(1824, 390, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b9a87d7818f94bec8e04a4caa50c7b41", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "343e283bad5f4c3e980c5c53c3edd976", async() => {
                 BeginContext(1876, 331, true);
                 WriteLiteral(@"
             <input type=""search"" class=""search_input menu_mm"" placeholder=""Search"" required=""required"">
@@ -200,7 +200,7 @@ using MusicStore.Models;
             WriteLiteral("arch -->\r\n    <div class=\"search\">\r\n        ");
             EndContext();
             BeginContext(4306, 274, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2b82771350094e8ab0c246107d299075", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d87fe549139b4aa28f43630c2398ebf1", async() => {
                 BeginContext(4368, 205, true);
                 WriteLiteral("\r\n            <input type=\"text\" class=\"search_input\" placeholder=\"Search\" required=\"required\">\r\n            <button class=\"search_button\"><i class=\"fa fa-search\" aria-hidden=\"true\"></i></button>\r\n        ");
                 EndContext();

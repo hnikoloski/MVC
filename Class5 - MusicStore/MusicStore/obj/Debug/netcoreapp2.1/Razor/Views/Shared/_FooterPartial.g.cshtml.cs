@@ -80,7 +80,7 @@ using MusicStore.Models;
                         ");
             EndContext();
             BeginContext(741, 300, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf87d870dc96484a823f43c3fc45f1c9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d9e17bd233c04b819842fa6b3c7bae3b", async() => {
                 BeginContext(803, 231, true);
                 WriteLiteral("\r\n                            <input type=\"email\" class=\"newsletter_input\" placeholder=\"your e-mail here\" required=\"required\">\r\n                            <button class=\"newsletter_button\">submit</button>\r\n                        ");
                 EndContext();
